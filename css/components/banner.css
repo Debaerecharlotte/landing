@@ -1,0 +1,20 @@
+.header {
+  padding: 180px 0;
+  color: grey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.header-text {
+  color: #F4DFB6;
+  margin: auto 50px;
+}
+
+.header-text > h1 {
+  font-size: 30px;
+}
+
+.header-text > p {
+  font-size: 24px;
+}
